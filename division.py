@@ -1,1 +1,2 @@
-print("this is division")
+def divide(a,b):
+    return a/b
