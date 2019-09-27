@@ -1,2 +1,2 @@
-def mod (int a int b )
+def mod(a, b):
 	return a % b
